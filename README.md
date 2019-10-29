@@ -1,2 +1,5 @@
 # h9demoxss
-Repository for the source code files of the article: Helping customers understand the risks of Cross-Site Scripting attacks through a demo
+
+This repo contains the source code files for the following article published in the Hackin9 Magazine:
+
+**Helping customers understand the risks of Cross-Site Scripting attacks through a demo**
